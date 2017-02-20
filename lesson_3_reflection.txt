@@ -7,3 +7,7 @@ Why might you want to always pull changes manually rather than having Git automa
    I could be working on a feature that might not need updates from the remote or could even break my new functionality.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+   Fork is creating a clone, but staying within the realm of GitHub.
+   Clone is creating a snapshot of the repository
+   Branch is creating a label from a clone
