@@ -5,3 +5,7 @@ What happens when you initialize a repository? why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
    it contains files that have not been committed yet, but represent a logical collection eligible to be committed at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+   By adding only those files that are required to be committed to staging area, we can compare them with working directory to ensure that only changes that are logically related are committed together.
