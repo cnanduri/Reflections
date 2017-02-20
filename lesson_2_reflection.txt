@@ -20,3 +20,7 @@ How do the diagrams help you visualize the branch structure?
 
    1. It gives an idea as to why the branches could have been created
    2. See the commits specific to a branch and those that are not traceable
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+   It results in having the master branch having all the changes from the other branch or vice-versa. I did not get the second part.
