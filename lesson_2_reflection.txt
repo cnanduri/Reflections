@@ -1,0 +1,7 @@
+What happens when you initialize a repository? why do you need to do it?
+	
+   A hidden folder named .git will be created. This is needed as this folder will contain all the metadata of the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+   it contains files that have not been committed yet, but represent a logical collection eligible to be committed at once.
