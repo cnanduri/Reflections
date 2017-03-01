@@ -19,4 +19,15 @@ What is the benefit of having a copy of the last known state of the remote store
    
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-  Very difficult. Would have to set a time every few intervals and let the other members of the team know about the changes performed. Would need to use tools like winmerge to see what has been changed etc and always end up doing manual merges!
+  Very difficult. Would have to set a time every few intervals and let the other members of the team know about the changes performed.   
+  Would need to use tools like winmerge to see what has been changed etc and always end up doing manual merges!
+  
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+ 1. A new functionality
+ 2. Need to make changes froma particular point in master which is not the latest
+ 
+ Benefits:
+ 1. Does not affect the production build.
+ 2. Easy to track the changes if there are any issyes caused by the new functionality after merging into master. That way, these changes   
+    can be reverted back very easily from the master!
