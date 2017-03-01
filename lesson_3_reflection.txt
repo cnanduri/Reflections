@@ -16,3 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
    1. Enables you to work on the latest code
    2. Prevents merge conflicts
+   
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Very difficult. Would have to set a time every few intervals and let the other members of the team know about the changes performed. Would need to use tools like winmerge to see what has been changed etc and always end up doing manual merges!
